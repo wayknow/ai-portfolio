@@ -1,6 +1,6 @@
 # AI Development Portfolio
 
-Hi, I'm [Your Name], an AI engineer specializing in LLM applications,
+Hi, I'm wayknow, an AI engineer specializing in LLM applications,
 machine learning pipelines, and intelligent automation systems.
 
 ## Services
@@ -26,5 +26,4 @@ Customizable customer service bot for e-commerce.
 - Tech: Node.js, React, OpenAI API
 
 ## Contact
-- Email: yourname@email.com
-- Upwork: [your Upwork profile link]
+- Email: jinchanghu1982@gmail.com
